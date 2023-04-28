@@ -3,7 +3,7 @@ import Input from "../../components/input";
 import Button from "../../components/button";
 import Verificar from "../verificacao/verificar";
 import React, { useState } from "react";
-
+//aaaaa
 function Home() {
   const [estoque, setEstoque] = useState([]);
 
